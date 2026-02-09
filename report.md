@@ -1,1 +1,1 @@
-# In this Lab, I learned how to use Git for version control by initializing and copying repository, creating a feature branch, and merging it back with the main branch, and i built a potfolio using HTML semantics.
+# In this Lab, I learned how to use Git for version control by initializing and copying repository, creating a feature branch, and merging it back with the main branch, and I built a potfolio using HTML semantics.
